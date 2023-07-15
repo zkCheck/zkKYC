@@ -9,7 +9,7 @@ const Footer = () => {
                     <div className="mr-4 text-white">Powered by Aleo blockchain</div>
                     <div className="flex space-x-4">
                         <a
-                            href="https://github.com/your-github-link"
+                            href="https://github.com/zkCheck/zkKYC"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-white hover:text-gray-300"
